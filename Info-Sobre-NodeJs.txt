@@ -1,0 +1,5 @@
+O NodeJs -> Não é linguagem.
+         -> A linguagem que utiliza é JavaScript
+         -> Não é framwork
+         -> o NodeJs é uma plataforma para back-end
+         -> Ambiente de execução Javascript server-side

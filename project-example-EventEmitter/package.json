@@ -1,0 +1,12 @@
+{
+  "name": "project-01",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "events": "^3.1.0"
+  }
+}
